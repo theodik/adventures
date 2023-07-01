@@ -1,2 +1,5 @@
 console.log("ahoj!");
-({ "test": "object" })
+
+const HELLO="world";
+
+export default HELLO;
